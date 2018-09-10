@@ -1,0 +1,27 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+flask = "*"
+"psycopg2" = "*"
+gunicorn = "*"
+pydash = "*"
+tweepy = "*"
+peewee = "*"
+sklearn = "*"
+pandas = "*"
+scipy = "*"
+numpy = "*"
+
+
+[requires]
+python_full_version = "3.6.6"

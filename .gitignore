@@ -1,0 +1,6 @@
+venv
+build
+*~
+*.pyc
+static
+credentials.json
